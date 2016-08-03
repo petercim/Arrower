@@ -15,4 +15,4 @@ After running the script, the SVG script will be printed on the screen. To save 
   
  - python ArrowerSVG.py GenBank_Filename flags > output_file.svg
 
-File can be then further edited in Adobe Illustrator.         
+The output_file.svg file can then be edited in Adobe Illustrator if needed.         

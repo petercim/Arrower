@@ -1,5 +1,5 @@
 # Arrower
-Usage: python arrower_michael.py <GenBank File>
+Usage: python ArrowerSVG.py GenBank_Filename
 
   Additional Flags (all in pixels units): 
 
@@ -13,6 +13,6 @@ Usage: python arrower_michael.py <GenBank File>
   
 After running the script, the SVG script will be printed on the screen. To save it directly into the file, one can use command: 
   
- - python arrower_michael.py <file> <flags> > output_file.svg
+ - python ArrowerSVG.py GenBank_Filename flags > output_file.svg
 
 File can be then further edited in Adobe Illustrator.         
